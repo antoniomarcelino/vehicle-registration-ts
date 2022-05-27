@@ -1,7 +1,7 @@
 # Parking System TS
 ## Project Description  🚀 Let's code! 🚀
 ### What is it about?
-Basic create, read, update and delete system using Typescript within a parking context
+Basic create, read and delete system using Typescript within a parking context
 ### Where?
 Bootcamp Spread Fullstack Developer by [Digital Innovation One](https://www.dio.me)
 ### When?
