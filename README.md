@@ -11,5 +11,5 @@ Bootcamp Spread Fullstack Developer by [Digital Innovation One](https://www.dio.
 ```npx -p typescript tsc```
 2) Use GoLive extension in VSCode
 
-## Prévia
-![Previa](https://raw.githubusercontent.com/antoniomarcelino/parking-system-ts/master/img.JPG)
+## Preview
+![Preview](https://raw.githubusercontent.com/antoniomarcelino/parking-system-ts/master/img.JPG)
