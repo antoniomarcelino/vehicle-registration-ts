@@ -1,7 +1,7 @@
-# Parking System TS
+# Vehicle Registration TS
 ## Project Description  🚀 Let's code! 🚀
 ### What is it about?
-Basic create, read and delete system using Typescript within a parking context
+Basic program to register vehicles and their license plates using Typescript
 ### Where?
 Bootcamp Spread Fullstack Developer by [Digital Innovation One](https://www.dio.me)
 ### When?
